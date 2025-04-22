@@ -2749,4 +2749,6 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13068/index.m3u8
 http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/18169/index.m3u8
 #EXTINF:-1 tvg-rec="0" tvg-name="UZ Фантастика HD" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxY99axVkQXvADRObGP7.png" group-title="VF & UZ", UZ Фантастика HD
 #EXTGRP:VF & UZ
-http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13065/index.m3u8
+http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/13065/index.m3u8 
+tvg-id="khit"
+tvg-id="sov-kinklass-hd"
